@@ -14,4 +14,10 @@ Here are some awesome people
 
 I am adding code to 'GitHub'
 
-''' Three (but kinda four) really important...'''
+''' Three (but kinda four) really important commands:
+- $ git status (informational)
+- $ git add .
+- $ git commit -m " descrive message"
+- $ git push origin informational'''
+
+[The super awesome syllabus](https://github.com/learn-academy-2021-echo/Syllabus/blob/main/github/github.md)
