@@ -10,4 +10,6 @@ Here are some awesome people
 
 *This is in italics *
 
-** this is in bold**
+** this is in bold **
+
+I am adding code to 'GitHub'
